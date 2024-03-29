@@ -28,4 +28,5 @@ Manifest.toml
 *.csv
 *.err
 *.out
+bed_input/
 
